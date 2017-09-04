@@ -1,0 +1,11 @@
+<? xml version="1.0" encoding="utf-8"?>
+<application>
+    <index value="18"/>
+	<mode value="normal"/>
+	<iconname value=""/>
+	<displayname value="camera"/>
+	<activity value="camera"/>
+	<version value="1.0.0"/>
+	<minstartmem value="50"/>
+	<maxusemem value="50"/>
+</application>

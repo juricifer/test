@@ -1,0 +1,11 @@
+#define	SVPBR_TIME_0	0
+#define	SVPBR_TIME_1	1
+#define	SVPBR_TIME_2	2
+#define	SVPBR_TIME_3	3
+#define	SVPBR_TIME_4	4
+#define	SVPBR_TIME_5	5
+#define	SVPBR_TIME_6	6
+#define	SVPBR_TIME_7	7
+#define	SVPBR_TIME_8	8
+#define	SVPBR_TIME_9	9
+#define	SVPBR_TIME_POINT	10

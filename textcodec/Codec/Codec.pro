@@ -1,0 +1,2 @@
+SOURCES += \
+    Codec.cpp

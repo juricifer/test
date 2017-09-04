@@ -1,0 +1,2 @@
+#ifndef _SINGLETON_MEM_RELEASE
+
